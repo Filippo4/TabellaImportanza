@@ -14,7 +14,7 @@ namespace IndiceLibro
 
         public string ToString3()
         {
-            return t;
+            return t ;
         }
     }
 }
